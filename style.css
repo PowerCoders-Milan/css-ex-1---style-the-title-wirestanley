@@ -1,1 +1,32 @@
 /* Use Selectors and attributes for the HTML design */
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 200px;
+    font-variant: 5px;
+    letter-spacing: 55px;
+    text-decoration: line-through;
+    text-shadow: 20px 10px 20px  rgba(0, 0, 0, 0.5);
+  }
+  
+  h2 {
+    color: blue;
+    text-align: center;
+    font-size: 150px;
+    font-variant: 50px;
+    letter-spacing: 16px;
+    text-decoration: underline;
+  }
+  h3 {
+    color:brown;
+    font-size: 200px;
+    text-align: center;
+    letter-spacing: 55px;
+    text-shadow: 20px 10px 20px  rgba(0, 0, 0, 0.5);
+}    
+h4 {
+    color: red;
+    text-align: center;
+    font-size: 150px;
+    text-shadow: rosybrown;
+  }
